@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a77ee5e-94b7-489a-b1b5-e8dd4ebfd9cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="JoomlaConfiguration" enabled="true">
+    <joomlaConfigPath>$PROJECT_DIR$/../../../../../../../laragon/www/trainershubjoomla/configuration.php</joomlaConfigPath>
+    <joomlaPath>C:\laragon\www\trainershubjoomla</joomlaPath>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../../../../../../laragon/www/trainershubjoomla" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1iu2cMRs7ZaIKHeaWufGGbRAhd1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a77ee5e-94b7-489a-b1b5-e8dd4ebfd9cc" name="Default Changelist" comment="" />
+      <created>1602743236501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602743236501</updated>
+      <workItem from="1602743241499" duration="274000" />
+      <workItem from="1602743536907" duration="2370000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="107" y="131" width="1720" height="856" key="DiffContextDialog" timestamp="1602743689613">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="107" y="131" width="1720" height="856" key="DiffContextDialog/0.0.1920.1080/-1920.8.1920.1080@0.0.1920.1080" timestamp="1602743689613" />
+    <state x="-1304" y="254" key="run.anything.popup" timestamp="1602745148153">
+      <screen x="-1920" y="8" width="1920" height="1080" />
+    </state>
+    <state x="-1304" y="254" key="run.anything.popup/0.0.1920.1080/-1920.8.1920.1080@-1920.8.1920.1080" timestamp="1602745148153" />
+  </component>
+</project>
