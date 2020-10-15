@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a77ee5e-94b7-489a-b1b5-e8dd4ebfd9cc" name="Default Changelist" comment="" />
+    <list default="true" id="4a77ee5e-94b7-489a-b1b5-e8dd4ebfd9cc" name="Default Changelist" comment="Version 3.0.13" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +9,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JoomlaConfiguration" enabled="true">
     <joomlaConfigPath>$PROJECT_DIR$/../../../../../../../laragon/www/trainershubjoomla/configuration.php</joomlaConfigPath>
@@ -20,6 +23,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1iu2cMRs7ZaIKHeaWufGGbRAhd1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="false" />
@@ -39,18 +43,34 @@
       <option name="presentableId" value="Default" />
       <updated>1602743236501</updated>
       <workItem from="1602743241499" duration="274000" />
-      <workItem from="1602743536907" duration="2370000" />
+      <workItem from="1602743536907" duration="2745000" />
     </task>
+    <task id="LOCAL-00001" summary="Version 3.0.13">
+      <created>1602746244929</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602746244929</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Version 3.0.13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 3.0.13" />
   </component>
   <component name="WindowStateProjectService">
     <state x="107" y="131" width="1720" height="856" key="DiffContextDialog" timestamp="1602743689613">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="107" y="131" width="1720" height="856" key="DiffContextDialog/0.0.1920.1080/-1920.8.1920.1080@0.0.1920.1080" timestamp="1602743689613" />
+    <state x="-1368" y="281" key="Vcs.Push.Dialog.v2" timestamp="1602746302036">
+      <screen x="-1920" y="8" width="1920" height="1080" />
+    </state>
+    <state x="-1368" y="281" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.8.1920.1080@-1920.8.1920.1080" timestamp="1602746302036" />
     <state x="-1304" y="254" key="run.anything.popup" timestamp="1602745148153">
       <screen x="-1920" y="8" width="1920" height="1080" />
     </state>
